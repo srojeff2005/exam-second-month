@@ -79,6 +79,7 @@
 .header__list-link{
     text-decoration: none;
     color: #fff;
+    font-weight: 700;
 }
 .header__list-link:hover{
     text-decoration: underline;
@@ -223,7 +224,7 @@
 }
 .tools-bg img{
     position: relative;
-    bottom: 60px;
+    bottom: 40px;
     width: 122px;
     height: 160px;
 }
@@ -253,6 +254,7 @@
     letter-spacing: 1.29px;
     position: relative;
     bottom: 20px;
+    left: 10px;
 }
 .tools-link{
     opacity: 0.5;
@@ -875,7 +877,7 @@
     }
     .tools-bg{
         width: 223px;
-        height: 205px;
+        height: 210px;
     }
     .tools-link{
         color: #D87D4A;
@@ -954,6 +956,7 @@
         width: 143px;
         text-align: center;
         margin: 20px 0;
+        line-height: 25px;
     }
     .footer__main-part{
         position: relative;
